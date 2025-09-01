@@ -10,6 +10,6 @@
 ## 🌱 Actualmente aprendiendo
 #### Nuevos frameworks y buenas prácticas en desarrollo web
 ## 📫 Cómo contactarme
-#### ✉️ aniolnicolau@gmail.com
+#### ✉️ aniolnicolauroig@gmail.com
 #### 💼 linkedin.com/in/aniolnicolau
 #### 🌐 github.com/Aniol-N
