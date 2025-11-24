@@ -8,7 +8,7 @@ Frontend Developer with a graphic design background. I specialize in creating fu
 JavaScript, TypeScript, Angular, HTML5, CSS3
 
 **Backend**  
-PHP (Laravel, Symfony), Java, SQL
+PHP (Laravel, Symfony), Python, Java, SQL
 
 **Tools**  
 Git, PowerBI, PowerApps
