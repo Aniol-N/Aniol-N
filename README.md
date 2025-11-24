@@ -1,15 +1,30 @@
-# 👋 ¡Hola! Soy Aniol Nicolau
-#### 💻 Desarrollador apasionado por la tecnología y la resolución de problemas.
-#### 🚀 Actualmente me especializo en Java, PHP y MySQL.
-#### 📚 Estudiante de Desarrollo de Aplicaciones Web (DAW).
-## 🔧 Tecnologías y herramientas
-#### Lenguajes: Java, PHP, Python, SQL
-#### Frameworks: Próximamente 👀
-#### Bases de datos: MySQL, MongoDB, PostgreSQL
-#### Control de versiones: Git & GitHub
-## 🌱 Actualmente aprendiendo
-#### Nuevos frameworks y buenas prácticas en desarrollo web
-## 📫 Cómo contactarme
-#### ✉️ aniolnicolauroig@gmail.com
-#### 💼 linkedin.com/in/aniolnicolau
-#### 🌐 github.com/Aniol-N
+# 👋 Hi, I'm Aniol Nicolau
+
+Frontend Developer with a graphic design background. I specialize in creating functional and visually appealing interfaces.
+
+## 💻 Tech Stack
+
+**Frontend**  
+JavaScript, TypeScript, Angular, HTML5, CSS3
+
+**Backend**  
+PHP (Laravel, Symfony), Java, SQL
+
+**Tools**  
+Git, PowerBI, PowerApps
+
+## 🎨 Design Tools
+
+Figma, Photoshop, After Effects
+
+## 🎯 About Me
+
+I combine frontend development with visual sensibility thanks to my experience in graphic design and digital art. This allows me to understand both technical implementation and user experience, creating products that work well and look even better.
+
+## 📫 Contact
+
+**Email:** aniolnicolauroig@gmail.com  
+**LinkedIn:** [linkedin.com/in/aniolnicolau](https://linkedin.com/in/aniolnicolau)
+
+---
+💼 Open to junior frontend development opportunities
